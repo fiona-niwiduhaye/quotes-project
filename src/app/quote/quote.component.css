@@ -1,0 +1,25 @@
+.text-center{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw9z-z64Vn5drbU1w_VoLZ1DwS2_7N6KubJw&usqp=CAU');
+    color: black;
+    text-shadow:2px 2px 5px yellow;
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+
+
+}
+.col-md-6{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWvfxBhho844IbWS_UrNZJBU26-OkIg2QIYYF7Z-Xa4A&usqp=CAU&ec=45714077');
+
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+h1{
+    font-weight: bold;
+    color: black;
+}
